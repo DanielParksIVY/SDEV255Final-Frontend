@@ -1,1 +1,0 @@
-const API_BASE = "https://your-glitch-app.glitch.me";
